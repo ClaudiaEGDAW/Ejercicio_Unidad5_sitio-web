@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif; /* Cambia la fuente */
+    background-color: #f0f0f0; /* Color de fondo */
+    color: #333; /* Color del texto */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #4CAF50; /* Color verde para el título */
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify; /* Justificar el texto */
+    margin: 20px;
+}
+
+pie_de_pagina {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
